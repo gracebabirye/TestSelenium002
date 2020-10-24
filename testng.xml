@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestNgMavenExampleSuite" parallel="false">
+  <test name="TestNgMavenTest">
+    <classes>
+      <class name="org.wso2.sample.testmaveselenium.TestNgMavenExampleTest"/>
+      <class name="org.wso2.sample.testmaveselenium.TestNgMavenSecondClass"/>
+    </classes>
+  </test>
+</suite>
